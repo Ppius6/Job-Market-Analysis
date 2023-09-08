@@ -21,3 +21,49 @@ An analysis was conducted to understand the average pay across different job tit
 ### 4. Experience Analysis
 
 An analysis was conducted to understand the average years of experience required in various industries. This analysis also incorporated data on the number of postings in each industry and the most common job position level.
+
+## Key Insights
+
+- The top advertised roles were for Data Engineers, followed by Data Scientists. Data Science Manager had the least advertised roles.
+- Job postings for these data careers have been growing over time. This highlights the growing demand for data professionals across industries.
+- Mid-senior job position level has the most job postings followed by associate, then entry level. Top senior positions such as Director, Executives have the least advertised positions. Interestingly, the advertised positions for Internship were also low.
+- Data Science Managers are the top paid data professionals, followed closely by Machine Learning Engineers. Data Analysts are the least paid in the five-focused data professions.
+- As the years of experience increase, so does the pay.
+- The pay is higher for those at the executive level, and is lower for those at the entry levels.
+- Python, a programming language is the top demanded skill across the five professions in data. It is followed closely by SQL, then cloud. 
+- Machine learning engineers need these top skills:
+    - Machine Learning
+    - Python
+    - AWS
+    - Cloud
+    - Tensorflow
+- Data Engineers need these top skills:
+    - Python
+    - AWS
+    - Azure
+    - Cloud
+    - SQL
+- Data Science Managers need these top skills
+    - Machine Learning
+    - Python
+    - AWS
+    - SQL
+    - R
+- Data Scientists need these top skills
+    - Machine Learning
+    - Python
+    - SQL
+    - R
+    - Programming
+- Data Analysts need these top skills
+    - SQL
+    - Python
+    - Tableau
+    - Excel
+    - Database
+
+- Notably, skills such as Python and SQL have maintained a consistent demand over the years from the job seekers. These are must have skills. They have been followed closely by cloud skills, AWS, and Azure.
+
+- The Internet Industry has a consistent hiring across all Job Position Levels. Other industries such as Marketing & Advertising, Management Consulting, Insurance, and Health, Wellness & Fitness have relatively low hiring rates.
+
+
